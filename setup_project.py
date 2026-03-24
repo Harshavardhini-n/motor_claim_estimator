@@ -2,7 +2,6 @@
 # setup_project.py
 # Run this ONCE to: verify structure + train ML models
 # Usage: python setup_project.py
-
 import os
 import sys
 
