@@ -1,7 +1,6 @@
 # src/predictor.py
 # FINAL CLEAN STABLE VERSION
 # Deterministic | No hallucination | No dominance bug | Hackathon safe
-
 import numpy as np
 import cv2
 import json
