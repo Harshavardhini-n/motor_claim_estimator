@@ -1,7 +1,6 @@
 # app.py
 # Main Streamlit application — Instant Motor Claim Estimator
 # Run with: streamlit run app.py
-
 import streamlit as st
 import sys
 import os
