@@ -23,6 +23,4 @@ motor_claim_estimator/
 └── assets/
 ```
 
----
 
-orts** — claim ID, timestamp, full breakdown
