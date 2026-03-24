@@ -1,7 +1,6 @@
 # src/preprocessor.py
 # OpenCV image preprocessing pipeline
 # Handles: resize, grayscale, blur, Canny edges, edge density
-
 import cv2
 import numpy as np
 from PIL import Image
